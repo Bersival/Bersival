@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bersival
+- 👀 I’m interested in Web programming
+- 🌱 I’m currently learning JavaScript and practicing in CSS
+- 💞️ I’m looking to collaborate on WEB Progects and talking about coding
+- 📫 How to reach me: my telegram: @bersival
