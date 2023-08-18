@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bersival, i am "Cha Qi - Tea app" founder and tech lead. 
-- 👀 I’m interested in Web development(stack: React JS, redux, TypeScript, React Router DOM, SASS/SCSS) and programming in general. I know Python, Express, SQL but in begginer level.
+- 👋 Hi, I’m @Bersival, i am fullstack web developer in element5.
+- 👀 I’m interested in Web development(stack: React, Redux, TypeScript, SASS/SCSS, Python, Flask, FastApi) and programming in general. I also know, Express and Rust but in begginer level.
 - 🌱 I’m currently learning Rust and practicing in it.
 - 💞️ I’m looking to collaborate on progects and talking about coding
 - 📫 Contact me in telegram: @bersival
