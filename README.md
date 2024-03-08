@@ -1,4 +1,4 @@
-hi, i'm [Bersival](https://github.com/bersival), a passionate self-taught frontend developer from Russia with over 2 years of experience in both a product company and startups.
+Hi, i'm [Bersival](https://github.com/bersival), a passionate self-taught frontend developer from Russia with over 2 years of experience in both a product company and startups.
 My focus lies on developing B2C & B2B products that address the needs of ordinary people and employees, demonstrating a keen interest in creating high-quality, user-centric solutions.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -20,3 +20,9 @@ My focus lies on developing B2C & B2B products that address the needs of ordinar
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+**Me on other platforms:**
+
+[telegram](https://t.me/bersival) \
+[codewars](https://codewars.com/users/Bersival) \
+[leetcode](https://leetcode.com/Bersival)
