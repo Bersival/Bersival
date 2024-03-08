@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Rust and practicing in it.
 - 💞️ I’m looking to collaborate on progects and talking about coding
 - 📫 Contact me in telegram: @bersival
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
