@@ -3,9 +3,9 @@ My focus lies on developing B2C & B2B products that address the needs of ordinar
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [telegram](https://t.me/bersival)
+💼 any freelance work? do reach, [telegram](https://t.me/bersival)
 
-**languages and tools:** 
+**Languages and tools:** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
