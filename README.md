@@ -1,9 +1,7 @@
-Hi, i'm [Bersival](https://github.com/bersival), a passionate self-taught frontend developer from Russia with over 2 years of experience in both a product company and startups.
+Hi, I'm [Bersival](https://github.com/bersival), a passionate self-taught frontend developer from Russia with experience in both a product company and startups.
 My focus lies on developing B2C & B2B products that address the needs of ordinary people and employees, demonstrating a keen interest in creating high-quality, user-centric solutions.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="270" />
-  
-💼 any freelance work? do reach, [telegram](https://t.me/bersival)
 
 **Languages and tools:** 
 
